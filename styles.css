@@ -80,7 +80,7 @@
         }
         /*banner*/
         .hero {
-            background: url('img/bannervinhhalong.jpg') center/cover no-repeat;
+            background: url('bannervinhhalong.jpg') center/cover no-repeat;
             min-height: 70vh;
             display: flex;
             align-items: center;
